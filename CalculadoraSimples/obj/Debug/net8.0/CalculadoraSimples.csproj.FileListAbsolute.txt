@@ -1,0 +1,14 @@
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.exe
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.deps.json
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\bin\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Victor\Documents\Estudos\C#\calculadora-estudo\CalculadoraSimples\obj\Debug\net8.0\ref\CalculadoraSimples.dll
